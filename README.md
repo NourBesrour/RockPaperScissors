@@ -246,6 +246,12 @@ cv2.destroyAllWindows()
 
 [Watch the Video Demonstration](video_demonstration.mp4)
 
+## Check Out My LinkedIn Post for this project
+
+You can view my latest post on LinkedIn [here](https://www.linkedin.com/posts/nour-besrour-276109204_computervision-deeplearning-cnn-activity-7178022793035321345-ODXp?utm_source=share&utm_medium=member_desktop).
+.
+
+
 
 
 
