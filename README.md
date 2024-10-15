@@ -12,6 +12,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - [Training Process](#training-process)
 - [Results](#results)
 - [License](#license)
+- [Video Demonstration](#video-demonstration)
 
 ## Project Description
 
@@ -240,4 +241,13 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+## Video Demonstration
+
+You can view a demonstration of the project in action here:
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7178022260379697152" height="730" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
+
+
 
