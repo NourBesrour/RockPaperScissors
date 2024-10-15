@@ -59,9 +59,9 @@ The goal of this project is to develop a machine learning model capable of accur
    ```
 
 2. **Run the Prediction Script**
-   - Use the `RPS_prediction.py` script to make predictions based on video input.
+   - Use the `detection_RPS.py` script to make predictions based on video input.
    ```bash
-   python RPS_prediction.py
+   python detecion_RPS.py
    ```
 
 ## Data Preparation
