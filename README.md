@@ -244,9 +244,7 @@ cv2.destroyAllWindows()
 
 ## Video Demonstration
 
-You can view a demonstration of the project in action here:
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7178022260379697152" height="730" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+[Watch the Video Demonstration](video_demonstration.mp4)
 
 
 
