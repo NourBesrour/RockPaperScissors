@@ -136,12 +136,6 @@ plt.title('Accuracy')
 plt.xlabel('Epoch')
 ```
 
-## Results
-
-The model was evaluated on the test set with the following results:
-- Test Score: `score[0]`
-- Test Accuracy: `score[1]`
-
 ## License
 
 This project is licensed under the MIT License.
